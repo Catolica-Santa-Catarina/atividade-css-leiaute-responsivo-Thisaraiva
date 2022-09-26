@@ -173,7 +173,7 @@
 
 .div{
     padding: 35px;
-    margin-bottom: 600px;
+    margin-bottom: 400px;
 }
 
 h1{
@@ -184,8 +184,8 @@ h1{
     width: fit-content;
     height: fit-content;
     font-family: Arial, Helvetica, sans-serif;
-    margin-top: 45px;
-    margin-bottom: 10px;
+    margin-top: 25px;
+    margin-bottom: 5px;
     padding: 15px;
     margin-left: auto;
     margin-right: auto;
@@ -194,33 +194,23 @@ h1{
 section{
     background-color: grey;
     border: 1px solid black;
-    margin-left: auto;
-    margin-right: auto;
-    margin: 10px;
-    min-height: 185px;
+    margin: 5px;
+    min-height: 400px;
 }
 
 .section1{
     background-color: crimson;
     border: 1px solid black;
-    margin-left: auto;
-    margin-right: auto;
-    margin: 10px;
-    min-height: 185px;
     color: yellow;
 }
 
 .section2{
     background-color: darkslategrey;
     border: 1px solid black;
-    margin-left: auto;
-    margin-right: auto;
-    margin: 10px;
-    min-height: 185px;
     color: white;
 }
 
-.h3{
+h3{
     min-height: 40px;
     min-width: 115px;
     width: fit-content;
@@ -228,6 +218,8 @@ section{
     color: white;
     background-color: blue;
     border: 1px solid black;
+    margin-top: -1px;
+    margin-right: -1px;
     float: right;
     padding: 10px;
     margin-bottom: 15px;
@@ -236,33 +228,15 @@ section{
 }
 
 .h31{
-    min-height: 40px;
-    min-width: 115px;
-    width: fit-content;
-    height: fit-content;
     color: white;
     background-color: peru;
-    border: 1px solid black;
-    float: right;
-    padding: 10px;
-    margin-bottom: 15px;
-    text-align: center;
-    position: relative;
+    border: -1px solid black;
 }
 
 .h32{
-    min-height: 40px;
-    min-width: 115px;
-    width: fit-content;
-    height: fit-content;
     color: white;
     background-color: green;
-    border: 1px solid black;
-    float: right;
-    padding: 10px;
-    margin-bottom: 15px;
-    text-align: center;
-    position: relative;
+    border: -1px solid black;
 }
 
 p{
