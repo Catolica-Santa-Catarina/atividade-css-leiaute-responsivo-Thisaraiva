@@ -173,7 +173,7 @@
 
 .div{
     padding: 35px;
-    margin-bottom: 400px;
+    margin-bottom: 10px;
 }
 
 h1{
@@ -230,13 +230,13 @@ h3{
 .h31{
     color: white;
     background-color: peru;
-    border: -1px solid black;
+    
 }
 
 .h32{
     color: white;
     background-color: green;
-    border: -1px solid black;
+    
 }
 
 p{
